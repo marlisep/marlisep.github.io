@@ -1,10 +1,8 @@
 ---
-layout: page
-title: ""
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
-
-# About Me
 
 *Exploring ideas. Writing to learn. Learning through writing.*
 
