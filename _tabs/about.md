@@ -1,3 +1,9 @@
+---
+layout: page
+title: ""
+permalink: /about/
+---
+
 # About Me
 
 *Exploring ideas. Writing to learn. Learning through writing.*
