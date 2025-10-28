@@ -9,7 +9,7 @@ description: "My first blog post."
 
 ---
 
-# :earth_americas: Hello world! 
+#  🌎 Hello world! 
 
 This is the obligatory, very first, 'Hello World!' (can you see this on the internet?) blog post. 
 
