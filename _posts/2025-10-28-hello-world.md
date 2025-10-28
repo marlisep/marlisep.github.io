@@ -2,6 +2,7 @@
 layout: post
 title: "Hello World!"
 date: 2025-10-28
+author: <author_id>
 categories: [non-tech]
 tags: [non-technical, first]
 description: "My first blog post."
