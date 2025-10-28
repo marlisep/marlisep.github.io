@@ -9,7 +9,7 @@ description: "My first blog post."
 
 ---
 
-#  🌎 Hello world! 
+#  Hello world! 
 
 This is the obligatory, very first, 'Hello World!' (can you see this on the internet?) blog post. 
 
@@ -23,11 +23,11 @@ And that’s what this is.
 
 A system.
 
-I learn about tech, I blog about tech, I also learn to write better. (Hopefully. :crossed_fingers:) 
+I learn about tech, I blog about tech, I also learn to write better. (Hopefully. Fingers crossed.) 
 
 A recent podcast I listened to also explained that in order to learn better, we should write about the material we’re learning. That way, you need to organize your thoughts in order to explain the concepts, and in doing so, you’ll figure out whether you understand it in the first place. It’s step two of the Feynman technique (teaching others) and writing concepts down (on digital paper), to solidify your learning.
 
-I also can’t promise that this blog will only contain tech posts. As a human being with a very diverse array of interests, you could possibly find posts about anything on here in the future. Future me might write about interesting :headphones: podcasts, :books: books I loved, :hammer: woodworking projects, :shirt: knitting, :running: exercise and physiology, :meat_on_bone: cooking, :speech_balloon: language, or :pray: yoga and meditation practices. I am insatiably curious by nature, and tend to chase new skills like some people chase money. Not necessarily to master them, just to know how stuff works. 
+I also can’t promise that this blog will only contain tech posts. As a human being with a very diverse array of interests, you could possibly find posts about anything on here in the future. Future me might write about interesting podcasts, books I loved, woodworking projects, knitting, exercise and physiology, cooking, language, or yoga and meditation practices. I am insatiably curious by nature, and tend to chase new skills like some people chase money. Not necessarily to master them, just to know how stuff works. 
 
 Because... I just want to know how things work.
 
