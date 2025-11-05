@@ -5,13 +5,11 @@ date: 2025-10-28
 author: <author_id>
 categories: [non-tech]
 tags: [non-technical, first]
-description: "My first blog post."
+description: "Can you see this on the internet?"
 
 ---
 
-#  Hello world! 
-
-This is the obligatory, very first, 'Hello World!' (can you see this on the internet?) blog post. 
+This is the obligatory, very first, 'Hello World!' blog post. 
 
 This is where I state my goals with the blog, promise to blog often, only about interesting stuff, and never about things that thousands of other people have already blogged to death in the last 20 years.
 
