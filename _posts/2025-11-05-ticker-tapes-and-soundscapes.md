@@ -10,7 +10,7 @@ description: "Going through life with permanent subtitles."
 ---
 
 Do you think in images or in sounds? Do you have an internal voice, or is it just quiet in your mind?
-I recently listened to this [podcast](https://www.hubermanlab.com/episode/enhance-learning-speed-neuroscience-poppy-crum) between Dr. Andrew Huberman and Dr. Poppy Crum, and it was so good, I listened to it twice. 
+I recently listened to this [podcast](https://www.hubermanlab.com/episode/enhance-learning-speed-neuroscience-poppy-crum){:target="_blank"} between Dr. Andrew Huberman and Dr. Poppy Crum, and it was so good, I listened to it twice. 
 The thing I couldn’t stop thinking about, was Dr. Crum’s way of perceiving the world.  She said, and I’m paraphrasing a bit, that she hears sounds and immediately her brain goes, “that’s a G”, “that’s an E”. Absolute pitch. Knowing what note a sound is making, and also what frequency the sound is. 
 
 Mind blowing.
@@ -73,7 +73,7 @@ According to studies, between 1.4% and 6.9% of the world’s population perceive
 
 ### How do you ‘get’ Ticker-tape Synesthesia?
 
-The Paris Brain Institute did a [study](https://parisbraininstitute.org/news/subtitled-world-uncovering-tickertape-synesthesia) with 26 participants that had Ticker-tape Synesthesia. They all filled in questionnaires, and according to those answers, it seems like 73% of the participants developed Ticker-tape when they acquired reading skills in childhood.
+The Paris Brain Institute did a [study](https://parisbraininstitute.org/news/subtitled-world-uncovering-tickertape-synesthesia){:target="_blank"} with 26 participants that had Ticker-tape Synesthesia. They all filled in questionnaires, and according to those answers, it seems like 73% of the participants developed Ticker-tape when they acquired reading skills in childhood.
 
 I can’t say for sure when I first became aware of my internal subtitles. My grandmother taught me to read at a young age, so by the time I went to school, I was already comfortable with reading the basic books that we had to read, and throughout my school years I had a love affair with books, language, and spelling tests. I just assumed that everyone else processed words and language the same way that I did.
 
